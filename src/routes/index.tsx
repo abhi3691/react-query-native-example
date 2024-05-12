@@ -12,8 +12,16 @@ const Routes = () => {
         screenOptions={{
           headerShown: false,
         }}>
-        <Stack.Screen name="HomeTab" component={TabBar} />
-        <Stack.Screen name="ProductList" component={ProductList} />
+        <Stack.Screen
+          name="HomeTab"
+          component={TabBar}
+          options={{title: 'Home'}}
+        />
+        <Stack.Screen
+          name="ProductList"
+          component={ProductList}
+          options={{title: 'Products'}}
+        />
       </Stack.Navigator>
     </NavigationContainer>
   );
