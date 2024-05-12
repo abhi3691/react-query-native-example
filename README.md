@@ -1,5 +1,5 @@
 
-https://github.com/abhi3691/selection-box-animation/assets/54738565/eb7aa609-1ecc-4357-9413-9864d25d5fa1
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
@@ -86,7 +86,8 @@ To learn more about React Native, take a look at the following resources:
 ## Demo
 
 
-https://github.com/abhi3691/selection-box-animation/assets/54738565/88231c55-5b3f-4bff-b27b-6f39e7f9f4b8
+https://github.com/abhi3691/react-query-example/assets/54738565/aa0562ac-db80-4d7a-87c8-4a52c0f4fe27
+
 
 
 
